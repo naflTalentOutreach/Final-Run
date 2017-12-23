@@ -1,3 +1,2 @@
 # Final-Run
-Guys create branches and upload your code.
-You can create branches using the dropdown in the corner(left), name the branch with the name of your code example:- Graphs;
+Guys pls upload your code into the branches that are created with the purpose of your code
